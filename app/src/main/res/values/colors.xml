@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--<color name="color1">#B71C1C</color>-->
+    <!--<color name="color1">#FF5722</color>-->
+    <!--<color name="color2">#8BC34A</color>-->
+    <!--<color name="color3">#00BCD4</color>-->
+    <!--<color name="color4">#673AB7</color>-->
+    <!--<color name="color5">#FFFFFF</color>-->
+
+    <!--<color name="color1">#58323d</color>-->
+    <!--<color name="color2">#f4eeb2</color>-->
+
+    <!--<color name="color1">#fe83ed</color>-->
+    <!--<color name="color2">#673AB7</color>-->
+    <!--<color name="color3">#bfb07e</color>-->
+    <!--<color name="color4">#673AB7</color>-->
+    <!--<color name="color5">#FFFFFF</color>-->
+
+    <color name="color1">#eb7663</color>
+    <color name="color2">#6ed671</color>
+    <color name="color3">#61bfe8</color>
+    <color name="color4">#fed53c</color>
+    <color name="color5">#ffffff</color>
+
+    <color name="edit_text_bg">#e0e0e0</color>
+
+    <color name="button_color">#009688</color>
+
+    <color name="white_50">#80ffffff</color>
+    <color name="text_blue">#0091ff</color>
+
+</resources>
